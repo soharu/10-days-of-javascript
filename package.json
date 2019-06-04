@@ -1,0 +1,32 @@
+{
+  "name": "10-days-of-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "xo && mocha"
+  },
+  "author": "soharu",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4",
+    "mocha-sinon": "^2.1.0"
+  },
+  "devDependencies": {
+    "xo": "^0.24.0"
+  },
+  "xo": {
+    "envs": [
+      "node",
+      "mocha",
+      "mocha-sinon"
+    ],
+    "space": true,
+    "rules": {
+      "capitalized-comments": "off",
+      "object-curly-spacing": "off",
+      "no-unused-expressions": "off"
+    }
+  }
+}
