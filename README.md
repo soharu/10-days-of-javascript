@@ -4,3 +4,4 @@
 
 - [x] Day 0: Hello, World!
 - [x] Day 0: Data Types
+- [x] Day 1: Arithmetic Operators
