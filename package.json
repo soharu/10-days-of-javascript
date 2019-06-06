@@ -25,7 +25,8 @@
     "rules": {
       "capitalized-comments": "off",
       "object-curly-spacing": "off",
-      "no-unused-expressions": "off"
+      "no-unused-expressions": "off",
+      "valid-jsdoc": "off"
     }
   }
 }
