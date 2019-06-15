@@ -1,7 +1,7 @@
-# Javascript Sample Code
+# JavaScript Sample Code
 
-- [Javascript Reference][Javascript Reference]
-- [Javascript Online Editor][Javascript Online Editor]
+- [JavaScript Reference][JavaScript Reference]
+- [JavaScript Online Editor][JavaScript Online Editor]
 
 ## 출력
 
@@ -14,7 +14,7 @@ console.log('Hello, world');
 ```js
 // 주석 처리된 명령은 실행되지 않습니다.
 // console.log('Hello, world');
-console.log('Learn Javascript');
+console.log('Learn JavaScript');
 /*
  주석을 여러 줄로 쓸 수 있어요.
  이렇게
@@ -213,5 +213,5 @@ console.log(isEvenNumber(10));  // true
 ```
 
 
-[Javascript Reference]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
-[Javascript Online Editor]: https://playcode.io/
+[JavaScript Reference]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
+[JavaScript Online Editor]: https://playcode.io/
