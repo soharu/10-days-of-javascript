@@ -1,4 +1,4 @@
-# Javscript Sample Code
+# Javascript Sample Code
 
 - [Javascript Reference][Javascript Reference]
 - [Javascript Online Editor][Javascript Online Editor]
