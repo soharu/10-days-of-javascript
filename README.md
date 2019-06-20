@@ -6,7 +6,7 @@
 - [x] Day 0: Data Types
 - [x] Day 1: Arithmetic Operators
 - [x] Day 1: Functions
-- [ ] Day 1: Let and Const
+- [x] Day 1: Let and Const
 - [ ] Day 2: Conditional Statements: If-Else
 - [ ] Day 2: Conditional Statements: Switch
 - [ ] Day 2: Loops
