@@ -2,11 +2,11 @@
 
 해커랭크 자바스크립트 튜토리얼
 
-- [x] Day 0: Hello, World!
-- [x] Day 0: Data Types
-- [x] Day 1: Arithmetic Operators
-- [x] Day 1: Functions
-- [x] Day 1: Let and Const
+- [x] [Day 0: Hello, World!](https://www.hackerrank.com/challenges/js10-hello-world/problem)
+- [x] [Day 0: Data Types]()
+- [x] [Day 1: Arithmetic Operators](https://www.hackerrank.com/challenges/js10-data-types/problem)
+- [x] [Day 1: Functions](https://www.hackerrank.com/challenges/js10-function/problem)
+- [x] [Day 1: Let and Const](https://www.hackerrank.com/challenges/js10-let-and-const/problem)
 - [x] [Day 2: Conditional Statements: If-Else](https://www.hackerrank.com/challenges/js10-if-else/problem)
 - [x] [Day 2: Conditional Statements: Switch](https://www.hackerrank.com/challenges/js10-switch/problem)
 - [ ] Day 2: Loops
