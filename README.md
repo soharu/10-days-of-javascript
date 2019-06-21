@@ -7,7 +7,7 @@
 - [x] Day 1: Arithmetic Operators
 - [x] Day 1: Functions
 - [x] Day 1: Let and Const
-- [ ] Day 2: Conditional Statements: If-Else
+- [x] [Day 2: Conditional Statements: If-Else](https://www.hackerrank.com/challenges/js10-if-else/problem)
 - [ ] Day 2: Conditional Statements: Switch
 - [ ] Day 2: Loops
 - [ ] Day 3: Arrays

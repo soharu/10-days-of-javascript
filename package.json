@@ -27,7 +27,8 @@
       "object-curly-spacing": "off",
       "no-unused-expressions": "off",
       "valid-jsdoc": "off",
-      "prefer-destructuring": "off"
+      "prefer-destructuring": "off",
+      "max-nested-callbacks": "off"
     }
   }
 }
