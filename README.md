@@ -9,7 +9,7 @@
 - [x] [Day 1: Let and Const](https://www.hackerrank.com/challenges/js10-let-and-const/problem)
 - [x] [Day 2: Conditional Statements: If-Else](https://www.hackerrank.com/challenges/js10-if-else/problem)
 - [x] [Day 2: Conditional Statements: Switch](https://www.hackerrank.com/challenges/js10-switch/problem)
-- [ ] Day 2: Loops
+- [ ] [Day 2: Loops](https://www.hackerrank.com/challenges/js10-loops/problem)
 - [ ] Day 3: Arrays
 - [ ] Day 3: Try, Catch, and Finally
 - [ ] Day 3: Throw
