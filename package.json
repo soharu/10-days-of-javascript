@@ -14,7 +14,7 @@
     "test-console": "^1.1.0"
   },
   "devDependencies": {
-    "xo": "^0.24.0"
+    "xo": "^0.47.0"
   },
   "xo": {
     "envs": [
