@@ -1,5 +1,3 @@
-'use strict';
-
 /**
 *   The variables 'firstInteger', 'firstDecimal', and 'firstString' are declared for you -- do not modify them.
 *   Print three lines:
@@ -12,7 +10,7 @@
 *   secondDecimal - The string representation of a floating-point number.
 *   secondString - A string consisting of one or more space-separated words.
 **/
-function performOperation(secondInteger, secondDecimal, secondString) {
+export function performOperation(secondInteger, secondDecimal, secondString) {
   // Declare a variable named 'firstInteger' and initialize with integer value 4.
   const firstInteger = 4;
 
@@ -31,5 +29,3 @@ function performOperation(secondInteger, secondDecimal, secondString) {
   // Write code that uses console.log to print the concatenation of 'firstString' and 'secondString' on a new line. The variable 'firstString' must be printed first.
   console.log(firstString + secondString);
 }
-
-exports.performOperation = performOperation;

@@ -1,5 +1,3 @@
-'use strict';
-
 /**
 *   Calculate the area of a rectangle.
 *
@@ -8,7 +6,7 @@
 *
 *	Return a number denoting the rectangle's area.
 **/
-function getArea(length, width) {
+export function getArea(length, width) {
   return length * width;
 }
 
@@ -20,9 +18,6 @@ function getArea(length, width) {
 *
 *	Return a number denoting the perimeter of a rectangle.
 **/
-function getPerimeter(length, width) {
+export function getPerimeter(length, width) {
   return (length + width) * 2;
 }
-
-exports.getArea = getArea;
-exports.getPerimeter = getPerimeter;

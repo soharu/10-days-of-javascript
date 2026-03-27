@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "xo && mocha"
+    "test": "xo && mocha",
   },
   "author": "soharu",
   "license": "ISC",

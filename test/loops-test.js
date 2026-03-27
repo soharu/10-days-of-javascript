@@ -1,9 +1,6 @@
-'use strict';
-
-const assert = require('assert');
-const testConsole = require('test-console');
-
-const sut = require('../source/Day-2/loops.js');
+import assert from 'assert'
+import testConsole from 'test-console'
+import sut from '../source/Day-2/loops'
 
 describe('Day 2: Loops', () => {
   describe('vowelsAndConsonants()', () => {

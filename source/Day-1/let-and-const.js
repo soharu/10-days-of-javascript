@@ -1,6 +1,4 @@
-'use strict';
-
-function printAreaAndPerimeter(r) {
+export function printAreaAndPerimeter(r) {
   const PI = Math.PI;
   // Print the area of the circle:
   console.log((r * r) * PI);
@@ -8,5 +6,3 @@ function printAreaAndPerimeter(r) {
   // Print the perimeter of the circle:
   console.log((2 * r) * PI);
 }
-
-exports.printAreaAndPerimeter = printAreaAndPerimeter;

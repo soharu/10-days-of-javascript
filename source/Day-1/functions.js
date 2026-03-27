@@ -1,5 +1,3 @@
-'use strict';
-
 /*
  * Create the function factorial here
  *
@@ -7,7 +5,7 @@
  *  - 1 <= n <= 10
  */
 
-function factorial(n) {
+export function factorial(n) {
   let result = 1;
 
   for (let i = 1; i <= n; ++i) {
@@ -16,5 +14,3 @@ function factorial(n) {
 
   return result;
 }
-
-exports.factorial = factorial;

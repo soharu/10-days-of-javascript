@@ -1,7 +1,5 @@
-'use strict';
-
 // constraints: 0 <= score <= 30
-function getGrade(score) {
+export function getGrade(score) {
   if (score < 0 || score > 30) {
     throw new RangeError('Invalid input');
   }
@@ -30,5 +28,3 @@ function getGrade(score) {
     return 'A';
   }
 }
-
-exports.getGrade = getGrade;

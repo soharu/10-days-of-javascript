@@ -1,6 +1,4 @@
-'use strict';
-
-function getLetter(s) {
+export function getLetter(s) {
   switch (s[0]) {
     case 'a':
     case 'e':
@@ -24,5 +22,3 @@ function getLetter(s) {
       return 'D';
   }
 }
-
-exports.getLetter = getLetter;

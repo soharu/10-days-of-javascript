@@ -1,10 +1,8 @@
-'use strict';
-
 /*
  * Complete the vowelsAndConsonants function.
  * Print your output using 'console.log()'.
  */
-function vowelsAndConsonants(s) {
+export function vowelsAndConsonants(s) {
   const vowels = [...'aeiou'];
   const chars = [...s];
   chars.filter(c => vowels.includes(c))
@@ -12,5 +10,3 @@ function vowelsAndConsonants(s) {
   chars.filter(c => vowels.includes(c) === false)
     .forEach(c => console.log(c));
 }
-
-exports.vowelsAndConsonants = vowelsAndConsonants;
